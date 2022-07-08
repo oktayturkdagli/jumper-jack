@@ -1,4 +1,4 @@
-## 📋 Project Name
+## 📋 Jumper Jack
 Help the character to avoid obstacles by swiping right or left!
 <br/><br/>
 
